@@ -1,0 +1,14 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+.img{
+    height: 50px;
+    width: 50px;
+}

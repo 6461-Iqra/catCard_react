@@ -1,0 +1,7 @@
+.Img{
+    margin-top: 20px;
+}
+.Img:hover{
+    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5));
+} 
+
